@@ -3,7 +3,7 @@ https://arxiv.org/pdf/1801.04062.pdf
 
 This implementation works for univariate variables, but it is easy to estend it to multivariate ones. 
 
-Based on https://github.com/MasanoriYamada/Mine_pytorch[https://github.com/MasanoriYamada/Mine_pytorch]
+Based on https://github.com/MasanoriYamada/Mine_pytorch
 
 
 # FILES: 
